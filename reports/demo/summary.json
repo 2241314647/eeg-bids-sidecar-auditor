@@ -1,0 +1,9 @@
+{
+  "dataset": "reports\\demo\\example_bids",
+  "eeg_json_files": 1,
+  "channels_tsv_files": 1,
+  "electrodes_tsv_files": 1,
+  "failures": 0,
+  "warnings": 0,
+  "info": 5
+}

@@ -1,0 +1,8 @@
+{
+  "TaskName": "checker",
+  "SamplingFrequency": 256,
+  "PowerLineFrequency": 50,
+  "EEGReference": "Cz",
+  "Manufacturer": "Simulated",
+  "EEGPlacementScheme": "10-20"
+}
